@@ -1,0 +1,30 @@
+{
+  "name": "nodefacebookchatbot",
+  "version": "1.0.0",
+  "description": "Facebook chatbot for node.js .",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shrestha7/NodeFacebookChatBot.git"
+  },
+  "keywords": [
+    "Facebook",
+    "ChatBot"
+  ],
+  "author": "Swastik Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shrestha7/NodeFacebookChatBot/issues"
+  },
+  "homepage": "https://github.com/Shrestha7/NodeFacebookChatBot#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "request": "^2.88.2"
+  }
+}
